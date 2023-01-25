@@ -24,7 +24,7 @@ public class TP_0_Error {
         String[] c = ["2","1","2","1"];   //j'ai déplacer cette ligne au dessus car en dessous on a besoin c et si c est en dessous de 
         double multiplication= multiplication(a,b,c); // la variable était mal déclarer
         
-    }
+    } //
     public static int addition(int a, int b)
     {
         return a + b;
